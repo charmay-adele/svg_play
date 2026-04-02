@@ -1,0 +1,18 @@
+<svg width="300" height="300" viewBox="0 0 680 680" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- outer grey ring -->
+  <circle cx="340" cy="340" r="140" fill="#e0e0e0"/>
+
+  <!-- red arc Q1 — 75% = 90 degrees, 12 o'clock to 3 o'clock -->
+  <path d="M 340,200 A 140,140 0 1,1 200,340 L 340,340 Z" fill="#E24B4A"/>
+
+  <!-- white face -->
+  <circle cx="340" cy="340" r="115" fill="white"/>
+
+  <!-- hour hand (pointing to 3) -->
+  <line x1="340" y1="340" x2="200" y2="340" stroke="#2a2a2a" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- centre dot -->
+  <circle cx="340" cy="340" r="10" fill="#2a2a2a"/>
+
+</svg>

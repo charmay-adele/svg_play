@@ -1,0 +1,15 @@
+<svg width="300" height="300" viewBox="0 0 680 680" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- outer grey ring -->
+  <circle cx="340" cy="340" r="140" fill="#E24B4A"/>
+
+  <!-- white face -->
+  <circle cx="340" cy="340" r="115" fill="white"/>
+
+  <!-- hour hand (pointing to 3) -->
+  <line x1="340" y1="340" x2="340" y2="200" stroke="#2a2a2a" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- centre dot -->
+  <circle cx="340" cy="340" r="10" fill="#2a2a2a"/>
+
+</svg>
